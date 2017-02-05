@@ -1,8 +1,8 @@
 # OpenEmu
-Retro video game emulation for macOS http://openemu.org
+Retro video game emulation for macOS - OpenEmu (http://openemu.org)
 
 ## Consoles:
 
-###SEGA
+### SEGA
 
-###SNES
+### SNES
