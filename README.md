@@ -7,7 +7,4 @@ Retro video game emulation for macOS - OpenEmu (http://openemu.org)
 #### Battletoads:
 Lives: C3BT-AA5A
 
-
-
-
 ## SNES
