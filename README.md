@@ -1,5 +1,5 @@
 # OpenEmu
-Retro video games emulation for Apple macOS - OpenEmu (http://openemu.org)
+Retro video games emulator for Apple macOS (Game ROMs) - OpenEmu (http://openemu.org)
 
 # Consoles:
 
