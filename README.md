@@ -9,3 +9,4 @@ Cheats - http://gamehacking.org/system/gen
 Lives: C3BT-AA5A
 
 ## SNES
+Cheats - http://gamehacking.org/system/snes
