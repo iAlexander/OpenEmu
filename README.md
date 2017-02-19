@@ -4,6 +4,7 @@ Retro video games emulator for Apple macOS (Game ROMs and Cheatcodes) - OpenEmu 
 # Consoles:
 
 ### SEGA
+Cheats - http://gamehacking.org/system/gen
 #### Battletoads:
 Lives: C3BT-AA5A
 
