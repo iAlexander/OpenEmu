@@ -1,7 +1,7 @@
 # OpenEmu
 Retro video games emulator for Apple macOS (Game ROMs and Cheatcodes)  
 OpenEmu website - http://openemu.org  
-Github - https://github.com/OpenEmu
+Github - http://github.com/OpenEmu
 
 # Consoles:
 
